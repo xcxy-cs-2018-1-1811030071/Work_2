@@ -1,0 +1,39 @@
+{
+  "RECORDS": [
+    {
+      "_id": "607e3677b0370000f100443c",
+      "Number": "120",
+      "onlineNumber": "40",
+      "serviceID": "1",
+      "style": "水电维修"
+    },
+    {
+      "_id": "607e3677b0370000f100443d",
+      "Number": "200",
+      "onlineNumber": "50",
+      "serviceID": "2",
+      "style": "家政"
+    },
+    {
+      "_id": "607e3677b0370000f100443e",
+      "Number": "220",
+      "onlineNumber": "100",
+      "serviceID": "3",
+      "style": "配送"
+    },
+    {
+      "_id": "607e3677b0370000f100443f",
+      "Number": "90",
+      "onlineNumber": "30",
+      "serviceID": "4",
+      "style": "老人陪护"
+    },
+    {
+      "_id": "607e3677b0370000f1004440",
+      "Number": "125",
+      "onlineNumber": "40",
+      "serviceID": "5",
+      "style": "社区医疗"
+    }
+  ]
+}

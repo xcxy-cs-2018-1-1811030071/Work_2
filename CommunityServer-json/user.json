@@ -1,0 +1,28 @@
+{
+  "RECORDS": [
+    {
+      "_id": "607e2cdbb0370000f1004431",
+      "Address": "幸福小区101",
+      "passward": "123456",
+      "TelephoneNummber": "1234",
+      "Username": "张三",
+      "UserStyle": "男"
+    },
+    {
+      "_id": "607e2cdbb0370000f1004432",
+      "Address": "幸福小区102",
+      "passward": "123456",
+      "TelephoneNummber": "1234",
+      "Username": "李四",
+      "UserStyle": "男"
+    },
+    {
+      "_id": "607e2cdbb0370000f1004433",
+      "Address": "幸福小区103",
+      "passward": "123456",
+      "TelephoneNummber": "1234",
+      "Username": "丽丽",
+      "UserStyle": "女"
+    }
+  ]
+}
